@@ -1,0 +1,5 @@
+{
+    "botToken": "2047601468:AAFe0URJnJDXOIHoG2eaE29HM-00XmDu_tI",
+    "exchangeApiKey": "http://api.exchangeratesapi.io/v1/latest?access_key=69c7e826ca2a708f26dd0399910d3cc7&symbols=EUR,USD,AUD,CAD,PLN,MXN,DKK,HUF",
+    "DBUrl": "mongodb+srv://admin:adminPassword123@curencies.fsb5t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
